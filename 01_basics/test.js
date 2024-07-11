@@ -1,0 +1,1 @@
+console.log("learn tutorial by vikas Singh");
